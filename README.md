@@ -1,0 +1,1 @@
+# wellwishes-calculator-weather
